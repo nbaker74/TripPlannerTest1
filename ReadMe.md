@@ -36,10 +36,10 @@ For the application to run:
 
 ### Installing
 
-Install the prerequisites.
-Copy the contents of the .\TripPlannerTest1\bin\Release directory (excluding app.publish) into your working directory or new folder on your PC. 
-Double-click on the TripPlannerTest1.exe (application).  The test will execute - it will input the data as per the scenario and return a results set.  It will throw a SuccessException if it completes successfully otherwise other exceptions will be thrown.
-Allow the test to complete.
+- Install the prerequisites.
+- Copy the contents of the .\TripPlannerTest1\bin\Release directory (excluding app.publish) into your working directory or new folder on your PC. 
+- Double-click on the TripPlannerTest1.exe (application).  The test will execute - it will input the data as per the scenario and return a results set.  It will throw a SuccessException if it completes successfully otherwise other exceptions will be thrown.
+- Allow the test to complete.
 
 ## Authors
 
