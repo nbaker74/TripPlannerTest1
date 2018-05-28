@@ -30,19 +30,11 @@ Copy the contents of the .\TripPlannerTest1\bin\Release directory (excluding app
 Double-click on the TripPlannerTest1.exe (application).  The test will execute - it will input the data as per the scenario and return a results set.  It will throw a SuccessException if it completes successfully otherwise other exceptions will be thrown.
 Allow the test to complete.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Nicole Baker** - *Initial work* - [nbaker74](https://github.com/nbaker74)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
