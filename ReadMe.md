@@ -16,12 +16,21 @@ The URL for Trip planner is ​https://transportnsw.info/trip
 
 ## Getting Started
 
+This C# solution requires Visual Studio 2017 - Community edition should suffice.
 Download the whole solution to your PC.
 
 ### Prerequisites
 
-Microsoft .NET Framework 4.6.1:
-https://www.microsoft.com/en-au/download/details.aspx?id=49981
+For Visual Studio 2017 the following additonal Nuget packages are required:
+- DotNetSeleniumExtras.WaitHelpers -  v3.11.0
+- NUnit - v3.10.1
+- Selenium.Support - v3.12.0
+- Selenium.WebDriver - v3.12.0
+- Selenium.WebDriver.ChromeDriver - v2.38.0.1
+
+For the application to run:
+- Google Chrome - v66.0.3359.181 (64-bit)
+- Microsoft .NET Framework 4.6.1: https://www.microsoft.com/en-au/download/details.aspx?id=49981
 
 ### Installing
 
