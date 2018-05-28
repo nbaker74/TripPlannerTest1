@@ -17,3 +17,23 @@ C:\Users\Nikki\Documents\Finding Work\job apps\AccessHQ\TripPlannerTest1\TripPla
 C:\Users\Nikki\Documents\Finding Work\job apps\AccessHQ\TripPlannerTest1\TripPlannerTest1\obj\Release\TripPlannerTest1.csproj.CopyComplete
 C:\Users\Nikki\Documents\Finding Work\job apps\AccessHQ\TripPlannerTest1\TripPlannerTest1\obj\Release\TripPlannerTest1.exe
 C:\Users\Nikki\Documents\Finding Work\job apps\AccessHQ\TripPlannerTest1\TripPlannerTest1\obj\Release\TripPlannerTest1.pdb
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\TripPlannerTest1.exe.config
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\TripPlannerTest1.exe.manifest
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\TripPlannerTest1.application
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\TripPlannerTest1.exe
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\TripPlannerTest1.pdb
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\nunit.framework.dll
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\SeleniumExtras.WaitHelpers.dll
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\WebDriver.dll
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\WebDriver.Support.dll
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\nunit.framework.pdb
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\nunit.framework.xml
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\WebDriver.xml
+D:\GitHub Repositories\TripPlannerTest1\bin\Release\WebDriver.Support.xml
+D:\GitHub Repositories\TripPlannerTest1\obj\Release\TripPlannerTest1.csprojAssemblyReference.cache
+D:\GitHub Repositories\TripPlannerTest1\obj\Release\TripPlannerTest1.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\TripPlannerTest1\obj\Release\TripPlannerTest1.exe.manifest
+D:\GitHub Repositories\TripPlannerTest1\obj\Release\TripPlannerTest1.application
+D:\GitHub Repositories\TripPlannerTest1\obj\Release\TripPlannerTest1.csproj.CopyComplete
+D:\GitHub Repositories\TripPlannerTest1\obj\Release\TripPlannerTest1.exe
+D:\GitHub Repositories\TripPlannerTest1\obj\Release\TripPlannerTest1.pdb

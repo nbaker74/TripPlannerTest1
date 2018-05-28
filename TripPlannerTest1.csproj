@@ -92,6 +92,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="AHQAutomationExercise-TripPlanner.pdf" />
     <None Include="App.config" />
     <None Include="packages.config" />
     <None Include="TripPlannerTest1_TemporaryKey.pfx" />
