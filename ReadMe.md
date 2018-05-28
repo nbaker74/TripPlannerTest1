@@ -16,12 +16,14 @@ The URL for Trip planner is ​https://transportnsw.info/trip
 
 ## Getting Started
 
-This C# solution requires Visual Studio 2017 - Community edition should suffice.
 Download the whole solution to your PC.
 
 ### Prerequisites
 
-For Visual Studio 2017 the following additonal Nuget packages are required:
+This C# solution requires:
+- Visual Studio 2017 - Community edition should suffice.
+
+In addition the following NuGet packages are required:
 - DotNetSeleniumExtras.WaitHelpers -  v3.11.0
 - NUnit - v3.10.1
 - Selenium.Support - v3.12.0
